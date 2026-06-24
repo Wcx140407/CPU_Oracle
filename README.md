@@ -97,7 +97,7 @@ Below is the configuration guide for customizing the datasets for each workload 
 
 ## Dataset
 
-Due to storage limitations, this repository only provides the generation tool scripts. The complete dataset is available for download at: []()
+Due to storage limitations, this repository only provides the generation tool scripts. The complete dataset is available for download at: [https://resources.benchcouncil.org/datasets/CPU_Oracle.tar.gz](https://resources.benchcouncil.org/datasets/CPU_Oracle.tar.gz)
 
 ## Citation & Reference
 
@@ -106,9 +106,9 @@ If you use CPUOracle in your research, please refer to our experiment and cite o
 *   **arXiv Link:** [https://arxiv.org/abs/2605.26643](https://arxiv.org/abs/2605.26643)
 
 ```bibtex
-@article{wang2026attributing,
-  title={Attributing the System's Overall Effect to its Components},
+@article{CPUOracle,
+  title={Inference of Component Effect on System Performance},
   author={Wang, Chenxi and Wang, Lei and Gao, Wanling and Fan, Fanda and Kang, Guoxin and Li, Hongxiao and Su, Yuchen and Zhan, Jianfeng},
-  journal={arXiv preprint arXiv:2605.26643},
+  journal={arXiv preprint arXiv:2605.26643v2},
   year={2026}
 }
