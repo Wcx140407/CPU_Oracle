@@ -1,0 +1,2 @@
+#!/bin/bash
+./sha256_gcc_O2 -size 41943040 -nthreads 9 -nreps 10

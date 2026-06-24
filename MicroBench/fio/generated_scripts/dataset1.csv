@@ -1,0 +1,2 @@
+name,filename,directory,filesize,operation,pattern
+sequential_write,seq_write.dat,/data/WPC-HPCA-Test/Micro-benchmarks/CPU_Oracle/fio/dataset,100M,write,sequential
